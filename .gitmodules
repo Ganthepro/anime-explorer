@@ -1,6 +1,4 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/pawito236/toc-frontend
+
 [submodule "backend"]
 	path = backend
 	url = https://github.com/WarachotInkun/TOCbackend
